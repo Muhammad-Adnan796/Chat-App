@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">1126112908254404</string>
+    <string name="facebook_client_token">175376d0ecf361763814c19fe14c1db6</string>
+    <string name="app_name">chat_app</string>
+</resources>
